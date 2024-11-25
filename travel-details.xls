@@ -1,0 +1,11 @@
+Passenger_ID,Name,Age,Gender,Origin,Destination,Travel_Date,Mode_of_Transport,Ticket_Price,Travel_Duration,Seat_Class
+1,John Doe,,M,New York,Los Angeles,11/10/2024,Airplane,450,6h,Economy
+2,Jane Smith,28,F,Chicago,San Francisco,11/12/2024,Train,180,30h,Sleeper
+3,Alan Brown,45,M,Miami,Houston,11/15/2024,Bus,60,20h,Standard
+4,Emma White,22,F,Seattle,Boston,11/20/2024,Airplane,600,5.5h,Business
+5,Mark Green,39,M,Denver,Las Vegas,11/22/2024,Train,,10h,Sleeper
+6,Sarah Blue,33,F,Dallas,Austin,11/25/2024,Bus,30,4h,Standard
+7,Lucas Gray,50,M,"Washington, DC",New York,11/30/2024,Train,100,3.5h,First Class
+8,Nina Red,29,F,Atlanta,Orlando,12/1/2024,Airplane,,1.5h,Economy
+9,Chris Yellow,41,M,Philadelphia,Boston,12/5/2024,Train,120,5h,Sleeper
+10,Laura Black,27,F,San Diego,Phoenix,12/10/2024,Airplane,25,6h,Economy

@@ -1,0 +1,10 @@
+Fruit,Weight (grams),Sweetness Level (1-10),Category
+Mango,160,7,Mango
+Mango,175,9,Mango
+Pear,140,6,Pear
+Pear,115,4,Pear
+Pineapple,210,8,Pineapple
+Pineapple,195,7,Pineapple
+Grape,52,5,Grape
+Grape,48,3,Grape
+Unknown Fruit,155,6,?
